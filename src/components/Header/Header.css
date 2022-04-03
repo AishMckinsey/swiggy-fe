@@ -1,0 +1,18 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+  background-color: rgb(248, 224, 179);
+}
+
+.logo {
+  max-height: 120px;
+  max-width: 120px;
+}
+
+.navbar-title {
+  text-align: center;
+  color: orange;
+  font-size: 60px;
+  font-weight: bolder;
+}
