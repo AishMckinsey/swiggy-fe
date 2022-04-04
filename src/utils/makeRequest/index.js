@@ -1,5 +1,5 @@
 import axios from "axios";
-import { BACKEND_URL } from "../../constants/apiEndpoints";
+import { BACKEND_URL } from "../../constants/apiEndPoints";
 import {
   BAD_REQUEST_ROUTE,
   SERVER_ERROR_ROUTE,
