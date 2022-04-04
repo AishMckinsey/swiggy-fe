@@ -1,0 +1,15 @@
+.menu {
+  background-color: rgb(250, 243, 231);
+  margin: 10px;
+  padding: 20px;
+  border-radius: 30px;
+  display: flex;
+  justify-content: space-between;
+  border-style: double;
+  color: orange;
+  font-weight: bolder;
+}
+
+.menu-name {
+  font-size: x-large;
+}
