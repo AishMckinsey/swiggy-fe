@@ -1,0 +1,29 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 10px;
+}
+
+.home-text {
+  padding: 10px;
+}
+.home-button-group {
+}
+
+.home-submit-button {
+  border: none;
+  background-color: transparent;
+}
+
+.home-button {
+  padding: 10px;
+  margin: 10px;
+
+  background-color: orange;
+  color: white;
+  border: none;
+  border-radius: 30px;
+  font-size: 20px;
+  font-weight: 500;
+}
